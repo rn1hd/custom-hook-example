@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a small application showing how to write a custom hook to help us fetch data.
 
+It is served as my training to get familiar in React ecosystem from an online course conducted by one of the best instructors [Yihua Zhang](https://github.com/ZhangMYihua) and his team. Here is the link to the original repository: [https://github.com/ZhangMYihua/custom-hook-example](https://github.com/ZhangMYihua/custom-hook-example)
+
 ## Available Scripts
 
 In the project directory, you can run:
